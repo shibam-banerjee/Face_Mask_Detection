@@ -11,6 +11,5 @@ This method works for both Images and Videos.
 
 Make sure to Mount your Google Drive as it will make things easier for you, if you are using Colab.
 
-You can train with your own dataset or use my weights which is provided. Remember, the weights provided works better with simpler images. 
-You can also retrain using my weights.
+
 
